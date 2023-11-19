@@ -1,6 +1,8 @@
-# daemon
+# Daemon - Frontend
 
-A new Flutter project.
+A state of the art project - accesible for everyone.
+
+Using Flutter to provide a Cross Platform Application, we managed to create a responsive and beautiful looking application, that in combiantion with the backend (via API) allows you to chat with your LogFiles like they were a person.
 
 ## Getting Started
 
